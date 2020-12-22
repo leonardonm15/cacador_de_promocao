@@ -8,3 +8,5 @@ tt_bot -> faz uma thread no twitter com base na iteração do arquivo json
 schedule -> sistema de verificação de horario para post no twitter e menu
 
 menu_lib -> menu no terminal para operação manual do script caso necessário
+
+as chaves da api foram mudadas
