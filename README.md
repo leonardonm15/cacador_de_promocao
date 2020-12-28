@@ -10,5 +10,5 @@ schedule -> sistema de verificação de horario para post no twitter e menu
 menu_lib -> menu no terminal para operação manual do script caso necessário
 
 as chaves da api foram mudadas
-@promocaoBOT
+@promocaoBOT no twitter, pra ver como ficou o resultado final
 qualquer coisa chama no discord ai Léu#1575
