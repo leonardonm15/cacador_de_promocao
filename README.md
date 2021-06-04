@@ -18,6 +18,7 @@ qualquer coisa chama no discord ai Léu#1575
 web scrapper that grabs information at pelando.com and show it on twitter
 
 files: 
+
   web_scrapper -> grabs the information and create 2 lists, une with the links and the other with the best promotions, zips it togueder and creates a json file with it
   
   tt_bot -> makes the thread based on the json
