@@ -29,4 +29,4 @@ files:
   
   the api key was changed | 
   acess @pomocaoBOT to check it out | 
-  anything u want to talk about the project ? reach me out on discord Léu#1575 | 
+  wanna talk about the project ? reach me out on discord Léu#1575 | 
