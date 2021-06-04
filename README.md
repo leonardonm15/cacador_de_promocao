@@ -9,9 +9,9 @@ schedule -> sistema de verificação de horario para post no twitter e menu
 
 menu_lib -> menu no terminal para operação manual do script caso necessário
 
-as chaves da api foram mudadas
-@promocaoBOT no twitter, pra ver como ficou o resultado final
-qualquer coisa chama no discord ai Léu#1575
+as chaves da api foram mudadas | 
+@promocaoBOT no twitter, pra ver como ficou o resultado final | 
+qualquer coisa chama no discord ai Léu#1575 | 
 
 ---------------------------------------------------------------------------------------------
 
@@ -27,6 +27,6 @@ files:
  
   menu_lib -> manual terminal in case something goes wrong
   
-  the api key was changed
-  acess @pomocaoBOT to check it out
-  anything u want to talk about the project ? reach me out on discord Léu#1575
+  the api key was changed | 
+  acess @pomocaoBOT to check it out | 
+  anything u want to talk about the project ? reach me out on discord Léu#1575 | 
